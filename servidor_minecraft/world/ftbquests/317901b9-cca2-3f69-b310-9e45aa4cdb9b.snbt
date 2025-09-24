@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "317901b9cca23f69b3109e45aa4cdb9b"
+	name: "zzz_antho#317901b9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
